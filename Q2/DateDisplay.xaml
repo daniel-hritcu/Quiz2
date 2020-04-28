@@ -1,0 +1,13 @@
+﻿<Window x:Class="Q2.DateDisplay"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Q2"
+        mc:Ignorable="d"
+        Title="DateDisplay" Height="100" Width="200
+        ">
+    <Grid>
+        <Label x:Name="showDateLabel" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="51" Width="168" Margin="10,10,0,0"/>
+    </Grid>
+</Window>
