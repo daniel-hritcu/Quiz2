@@ -42,7 +42,6 @@ namespace Q5
             {
                 odd.Header = $"Odd : {oddCount}";
             }
-
             //treeView.UpdateLayout();
         }
     }
